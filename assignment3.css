@@ -1,1 +1,45 @@
 /*styles for assignment 3*/
+/* I only used red, white, and yellow because those are the Houston Rockets' team colors lol */
+body{
+	margin: 0px;
+	background-color: red;
+}
+
+h1{
+	padding-top: 100px;
+	font-size: 25px;
+	color: yellow;
+	text-align: center;
+	clear: both;
+}
+
+p.hardenEx{
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: yellow;
+	border-style: dashed;
+	border-color: white;
+}
+
+div.hardenStats{
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+	padding-bottom: 50px;
+}
+
+p.lebronEx{
+	padding-left: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: yellow;
+	border-style: dashed;
+	border-color: white;
+}
+
+div.lebronStats{
+	padding-left: 50px;
+	padding-top: 10px;
+	color: white;
+}
